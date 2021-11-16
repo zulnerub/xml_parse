@@ -1,0 +1,957 @@
+[INFO ] 2021-11-04 16:42:45.784 [Camel (camel-1) thread #4 - Multicast] mylogger - info('File is xml format. Parsing with JAXB')
+[INFO ] 2021-11-04 16:42:45.825 [Camel (camel-1) thread #4 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ] 2021-11-04 16:42:45.983 [Camel (camel-1) thread #4 - Multicast] mylogger - Entities persisted.
+ 2021-11-04 16:46:04.440 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with JAXB
+ 2021-11-04 16:46:04.477 [Camel (camel-1) thread #4 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+ 2021-11-04 16:46:04.617 [Camel (camel-1) thread #4 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-04 16:47:13.205 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[WARN ] 2021-11-04 16:47:13.206 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ] 2021-11-04 16:47:13.205 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[WARN ] 2021-11-04 16:47:13.271 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ] 2021-11-04 16:47:13.271 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[INFO ] 2021-11-04 16:47:13.277 [Camel (camel-1) thread #4 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ] 2021-11-04 16:47:13.422 [Camel (camel-1) thread #4 - Multicast] mylogger - Entities persisted.
+[WARN ] 2021-11-04 16:47:13.422 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-04 16:47:13.422 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-05 10:10:56.704 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[WARN ] 2021-11-05 10:10:56.704 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ] 2021-11-05 10:10:56.704 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[WARN ] 2021-11-05 10:10:56.759 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ] 2021-11-05 10:10:56.759 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[INFO ] 2021-11-05 10:10:56.771 [Camel (camel-1) thread #4 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ] 2021-11-05 10:10:56.937 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-05 10:10:56.937 [Camel (camel-1) thread #4 - Multicast] mylogger - Entities persisted.
+[WARN ] 2021-11-05 10:10:56.937 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-05 10:57:04.934 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[WARN ] 2021-11-05 10:57:04.934 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ] 2021-11-05 10:57:04.934 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ] 2021-11-05 10:57:04.983 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[WARN ] 2021-11-05 10:57:04.983 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ] 2021-11-05 10:57:05.116 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[WARN ] 2021-11-05 10:57:05.116 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-05 11:08:07.233 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[WARN ] 2021-11-05 11:08:07.233 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ] 2021-11-05 11:08:07.233 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[WARN ] 2021-11-05 11:08:07.315 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ] 2021-11-05 11:08:07.315 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[INFO ] 2021-11-05 11:08:07.326 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ] 2021-11-05 11:08:07.496 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[WARN ] 2021-11-05 11:08:07.496 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ] 2021-11-05 11:08:07.496 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.640 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.640 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[WARN ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.640 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.711 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[WARN ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.711 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.712 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[WARN ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.880 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.880 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ] mdc{camel.breadcrumbId} 2021-11-05 11:17:36.880 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[WARN ]  2021-11-05 11:20:38.742 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ]  2021-11-05 11:20:38.742 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 11:20:38.742 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[WARN ]  2021-11-05 11:20:38.800 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 11:20:38.805 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[INFO ]  2021-11-05 11:20:38.807 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[WARN ]  2021-11-05 11:20:39.042 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:20:39.042 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:20:39.042 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:24:19.538 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[WARN ]  2021-11-05 11:24:19.539 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ]  2021-11-05 11:24:19.539 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 11:24:19.601 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[WARN ]  2021-11-05 11:24:19.601 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 11:24:19.603 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[WARN ]  2021-11-05 11:24:19.896 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:24:19.896 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:24:19.896 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:28:56.836 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2599 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 11:28:56.839 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 11:28:56.840 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 11:29:03.728 [main] XmlParseApplication - Started XmlParseApplication in 7.371 seconds (JVM running for 9.705)
+[INFO ]  2021-11-05 11:29:22.927 [Camel (camel-1) thread #1 - file:///Users/simeonatanasov/WebstormProjects/input/input] FileOutputRouter - Starting ingest with 55613b3b-5779-44b6-ac3e-c571bd425bd1
+[WARN ]  2021-11-05 11:29:22.979 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel JAXB
+[INFO ]  2021-11-05 11:29:22.979 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-05 11:29:22.979 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[WARN ]  2021-11-05 11:29:23.038 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with Camel JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 11:29:23.038 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with Camel converter. Persisting entity in DB
+[INFO ]  2021-11-05 11:29:23.043 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[WARN ]  2021-11-05 11:29:23.217 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:29:23.217 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 11:29:23.217 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 12:32:53.307 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2754 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 12:32:53.310 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 12:32:53.311 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 12:32:59.887 [main] XmlParseApplication - Started XmlParseApplication in 7.046 seconds (JVM running for 9.126)
+[INFO ]  2021-11-05 12:34:40.408 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:40.901 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:41.417 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:41.920 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:42.426 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:42.938 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:43.442 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:34:43.961 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:36:54.464 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2776 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 12:36:54.467 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 12:36:54.468 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 12:37:00.388 [main] XmlParseApplication - Started XmlParseApplication in 6.343 seconds (JVM running for 8.417)
+[INFO ]  2021-11-05 12:37:01.421 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:37:01.933 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:37:02.443 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:37:02.958 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:43:36.003 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2791 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 12:43:36.006 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 12:43:36.007 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 12:43:52.422 [main] XmlParseApplication - Started XmlParseApplication in 16.875 seconds (JVM running for 19.345)
+[INFO ]  2021-11-05 12:43:53.441 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 12:47:09.174 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 13:24:43.692 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2886 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 13:24:43.695 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 13:24:43.695 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 13:25:09.105 [main] XmlParseApplication - Started XmlParseApplication in 25.834 seconds (JVM running for 27.958)
+[INFO ]  2021-11-05 13:25:10.165 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 13:25:20.849 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 13:25:20.996 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 13:25:21.018 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with e3135af2-0ef6-4b1c-af20-51ea428cd415
+[INFO ]  2021-11-05 13:37:26.483 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 13:37:33.690 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 13:37:33.737 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 13:42:50.864 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2956 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 13:42:50.868 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 13:42:50.868 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 13:52:39.263 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3026 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 13:52:39.268 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 13:52:39.269 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 13:52:47.956 [main] XmlParseApplication - Started XmlParseApplication in 9.291 seconds (JVM running for 12.197)
+[INFO ]  2021-11-05 13:52:48.973 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 13:52:49.054 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 13:52:49.200 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 13:52:49.223 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 304d995c-c789-464c-b5c4-b3181179417e
+[INFO ]  2021-11-05 14:24:01.343 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:24:01.407 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:24:01.441 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:24:01.454 [Camel (camel-1) thread #11 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 19a005bc-95d9-4a47-9804-812ca2d1d955
+[INFO ]  2021-11-05 14:24:19.234 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3285 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:24:19.237 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:24:19.237 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:24:25.261 [main] XmlParseApplication - Started XmlParseApplication in 6.5 seconds (JVM running for 8.644)
+[INFO ]  2021-11-05 14:24:26.335 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:24:26.384 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:24:26.490 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:24:26.505 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 6597e0e7-1feb-46c9-a354-c54b2242ed4e
+[INFO ]  2021-11-05 14:26:12.969 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:26:13.002 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:26:13.024 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:26:13.033 [Camel (camel-1) thread #11 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with af5c5783-a1a0-4e4e-95c0-33355b11d3a5
+[INFO ]  2021-11-05 14:27:33.837 [Camel (camel-1) thread #15 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:27:33.863 [Camel (camel-1) thread #15 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:27:33.878 [Camel (camel-1) thread #15 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:27:33.882 [Camel (camel-1) thread #16 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with b5d98f65-44e3-4537-8ac3-0a8277ccb15c
+[INFO ]  2021-11-05 14:30:25.545 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3301 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:30:25.547 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:30:25.548 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:30:31.931 [main] XmlParseApplication - Started XmlParseApplication in 6.806 seconds (JVM running for 8.757)
+[INFO ]  2021-11-05 14:30:32.945 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:30:33.005 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:30:33.089 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:30:33.103 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 44989ae5-9bc2-4132-98b4-4165d1c45f6e
+[INFO ]  2021-11-05 14:34:55.983 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3320 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:34:55.987 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:34:55.988 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:35:02.323 [main] XmlParseApplication - Started XmlParseApplication in 6.796 seconds (JVM running for 8.999)
+[INFO ]  2021-11-05 14:35:15.976 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:35:16.035 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:35:16.130 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:35:16.147 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with b120b5dc-b4ce-4828-9cba-3fea3060236a
+[INFO ]  2021-11-05 14:36:14.388 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3329 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:36:14.392 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:36:14.393 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:36:20.533 [main] XmlParseApplication - Started XmlParseApplication in 6.605 seconds (JVM running for 8.83)
+[INFO ]  2021-11-05 14:36:27.103 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:36:27.159 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:36:27.249 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:36:27.265 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 7cd6c19a-5c8b-4993-b3b2-43ddabbe5e0d
+[INFO ]  2021-11-05 14:38:44.628 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3339 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:38:44.631 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:38:44.631 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:38:53.539 [main] XmlParseApplication - Started XmlParseApplication in 9.357 seconds (JVM running for 11.636)
+[INFO ]  2021-11-05 14:38:54.573 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:39:10.672 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:40:27.714 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:40:27.794 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 7a17004c-7724-4b65-babc-08235fc8493c
+[INFO ]  2021-11-05 14:41:01.869 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3350 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:41:01.872 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:41:01.872 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:41:12.552 [main] XmlParseApplication - Started XmlParseApplication in 11.124 seconds (JVM running for 13.258)
+[INFO ]  2021-11-05 14:41:15.614 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:41:17.609 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:41:19.085 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:41:19.108 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with bd977ac9-41f6-47e6-aeaa-f9aaaaf0c063
+[INFO ]  2021-11-05 14:42:04.929 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3357 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:42:04.932 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:42:04.932 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:42:15.016 [main] XmlParseApplication - Started XmlParseApplication in 10.536 seconds (JVM running for 12.638)
+[INFO ]  2021-11-05 14:42:16.046 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:42:17.834 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:42:23.309 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:42:23.334 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 60a6140b-2c57-42c6-a598-3748f334c4fc
+[INFO ]  2021-11-05 14:44:02.170 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 14:44:04.356 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 14:44:06.168 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 14:44:06.183 [Camel (camel-1) thread #11 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 84d1cfc6-f9d5-45a0-90db-83664114e324
+[INFO ]  2021-11-05 14:51:05.174 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3377 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:51:05.177 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:51:05.177 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:51:38.281 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3390 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:51:38.284 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:51:38.284 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:55:35.757 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3408 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:55:35.760 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:55:35.760 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 14:56:38.653 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3439 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 14:56:38.656 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 14:56:38.656 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:17:46.264 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3497 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:17:46.267 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:17:46.268 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:23:29.076 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3551 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:23:29.080 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:23:29.081 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:23:35.237 [main] XmlParseApplication - Started XmlParseApplication in 6.599 seconds (JVM running for 8.787)
+[INFO ]  2021-11-05 15:23:36.265 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 15:23:36.316 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 15:23:36.407 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 15:23:36.420 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with bc60e190-db55-406d-ad95-421c2b4a9539
+[INFO ]  2021-11-05 15:30:46.424 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3582 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:30:46.427 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:30:46.427 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:33:32.545 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3590 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:33:32.547 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:33:32.548 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:35:53.767 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3598 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:35:53.769 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:35:53.770 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:35:59.968 [main] XmlParseApplication - Started XmlParseApplication in 6.634 seconds (JVM running for 8.661)
+[INFO ]  2021-11-05 15:36:27.331 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 15:36:27.385 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 15:36:27.493 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 15:36:27.506 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 20e8df6f-6b7f-41fa-bc20-c780a452c133
+[INFO ]  2021-11-05 15:37:17.042 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3620 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:37:17.048 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:37:17.050 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:37:23.183 [main] XmlParseApplication - Started XmlParseApplication in 6.62 seconds (JVM running for 8.799)
+[INFO ]  2021-11-05 15:38:06.649 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 15:38:06.702 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 15:38:06.805 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 15:38:06.819 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 8a4129cf-57bc-4d1a-a6f9-363927b463c3
+[INFO ]  2021-11-05 15:40:23.970 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3636 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:40:23.972 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:40:23.973 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:40:30.038 [main] XmlParseApplication - Started XmlParseApplication in 6.498 seconds (JVM running for 8.544)
+[INFO ]  2021-11-05 15:41:03.510 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3654 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-05 15:41:03.513 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-05 15:41:03.514 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-05 15:41:10.073 [main] XmlParseApplication - Started XmlParseApplication in 7.084 seconds (JVM running for 9.16)
+[INFO ]  2021-11-05 15:41:32.799 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-05 15:41:32.851 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-05 15:41:32.953 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-05 15:41:32.968 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with e7b2b537-4a84-4f79-9b6f-9e9abfd3eaa9
+[INFO ]  2021-11-08 09:31:20.522 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1905 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 09:31:20.525 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 09:31:20.525 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 09:40:02.494 [main] XmlParseApplication - Started XmlParseApplication in 522.501 seconds (JVM running for 525.387)
+[INFO ]  2021-11-08 09:40:03.530 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 09:40:06.029 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 09:40:09.493 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 09:40:09.510 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 1f068ce3-fef5-407e-85c1-82b6584af94a
+[INFO ]  2021-11-08 09:42:34.817 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1967 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 09:42:34.820 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 09:42:34.820 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 09:42:47.372 [main] XmlParseApplication - Started XmlParseApplication in 12.984 seconds (JVM running for 15.137)
+[INFO ]  2021-11-08 09:42:51.463 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 09:42:53.611 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 09:42:56.237 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 09:42:56.255 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with d88419f4-0480-461c-8368-1e6478cbbf85
+[INFO ]  2021-11-08 09:43:15.348 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 09:43:15.403 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 09:44:21.162 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1973 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 09:44:21.166 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 09:44:21.167 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 09:44:37.752 [main] XmlParseApplication - Started XmlParseApplication in 17.141 seconds (JVM running for 19.631)
+[INFO ]  2021-11-08 09:44:50.906 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 09:44:50.961 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 09:44:54.252 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 09:44:54.271 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 285104f3-ad92-43ab-8f03-31c268c791a2
+[INFO ]  2021-11-08 09:45:27.886 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1980 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 09:45:27.889 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 09:45:27.889 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 09:46:08.127 [main] XmlParseApplication - Started XmlParseApplication in 40.661 seconds (JVM running for 42.806)
+[INFO ]  2021-11-08 09:46:14.231 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 09:46:14.287 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 09:46:17.463 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 09:46:17.482 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with a60cdd08-6bac-44d0-b6c8-27d155a8d550
+[INFO ]  2021-11-08 09:46:25.190 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 09:46:25.231 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 09:47:37.961 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1998 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 09:47:37.964 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 09:47:37.964 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 09:47:44.423 [main] XmlParseApplication - Started XmlParseApplication in 6.876 seconds (JVM running for 8.962)
+[INFO ]  2021-11-08 09:47:47.985 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 09:47:48.040 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 09:47:48.133 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 09:47:48.145 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 55300d91-b9fb-48d5-b6c4-48942eb92187
+[INFO ]  2021-11-08 09:47:48.353 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 09:47:48.364 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 09:58:56.926 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2062 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 09:58:56.930 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 09:58:56.931 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 10:03:02.045 [main] XmlParseApplication - Started XmlParseApplication in 245.672 seconds (JVM running for 248.126)
+[INFO ]  2021-11-08 10:03:03.091 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 10:03:03.147 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 10:03:03.246 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 10:03:03.257 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 5a0295a1-2a55-457a-b08a-1fb9fb1bb8ca
+[INFO ]  2021-11-08 10:03:03.444 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 10:05:26.221 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 10:48:38.834 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2222 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 10:48:38.837 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 10:48:38.838 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 10:48:51.812 [main] XmlParseApplication - Started XmlParseApplication in 13.432 seconds (JVM running for 15.551)
+[INFO ]  2021-11-08 10:48:59.430 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 10:48:59.482 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 10:48:59.578 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 10:48:59.590 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with fc15313d-5f8a-4407-8817-dda1deae8857
+[INFO ]  2021-11-08 10:48:59.794 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 10:52:57.861 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 10:53:27.151 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2237 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 10:53:27.156 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 10:53:27.157 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 10:53:39.449 [main] XmlParseApplication - Started XmlParseApplication in 12.759 seconds (JVM running for 14.893)
+[INFO ]  2021-11-08 10:53:44.025 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 10:53:44.078 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 10:53:44.177 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 10:53:44.190 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 9422233a-9bf1-4a1f-834f-5a6ef28f215d
+[INFO ]  2021-11-08 10:53:44.388 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 10:58:44.167 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 17:02:16.408 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3459 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:02:16.411 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:02:16.411 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:02:26.907 [main] XmlParseApplication - Started XmlParseApplication in 10.944 seconds (JVM running for 13.16)
+[INFO ]  2021-11-08 17:02:39.544 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 17:02:39.596 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 17:02:39.702 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 17:02:39.715 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 44eea269-3aa5-4f28-af79-4af000478380
+[INFO ]  2021-11-08 17:02:39.932 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 17:03:18.348 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 17:10:50.167 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3483 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:10:50.170 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:10:50.171 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:25:05.945 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3541 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:25:05.949 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:25:05.950 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:27:27.083 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3558 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:27:27.088 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:27:27.088 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:28:59.441 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3569 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:28:59.445 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:28:59.445 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:29:28.136 [main] XmlParseApplication - Started XmlParseApplication in 29.17 seconds (JVM running for 31.397)
+[INFO ]  2021-11-08 17:29:46.312 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 17:29:46.363 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 17:29:46.517 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 17:29:46.538 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 14078261-2fdd-4ee3-beef-6a75e4546cec
+[INFO ]  2021-11-08 17:29:46.665 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 17:30:30.062 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 17:31:04.748 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3588 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:31:04.751 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:31:04.751 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:31:32.230 [main] XmlParseApplication - Started XmlParseApplication in 27.911 seconds (JVM running for 30.057)
+[INFO ]  2021-11-08 17:31:45.349 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 17:31:45.397 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 17:31:45.504 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 17:31:45.515 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with b9a910dc-6f0b-4810-bf95-f43678b12bd9
+[INFO ]  2021-11-08 17:31:45.613 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 17:39:14.605 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-08 17:39:35.145 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3622 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-08 17:39:35.148 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-08 17:39:35.148 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-08 17:39:41.995 [main] XmlParseApplication - Started XmlParseApplication in 7.298 seconds (JVM running for 9.89)
+[INFO ]  2021-11-08 17:39:49.562 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-08 17:39:49.614 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-08 17:39:49.736 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-08 17:39:49.750 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with 334c77de-a21d-4702-bb1a-5f53daedc339
+[INFO ]  2021-11-08 17:39:49.866 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-08 17:40:33.198 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 10:03:36.071 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1607 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 10:03:36.074 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 10:03:36.074 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 10:03:49.081 [main] XmlParseApplication - Started XmlParseApplication in 13.445 seconds (JVM running for 16.237)
+[INFO ]  2021-11-09 10:03:56.717 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:56.783 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:56.888 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:03:57.210 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:57.230 [Camel (camel-1) thread #9 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:57.241 [Camel (camel-1) thread #9 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:03:57.737 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:57.764 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:57.782 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:03:58.250 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:58.281 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:58.295 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:03:58.764 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:58.804 [Camel (camel-1) thread #7 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:58.820 [Camel (camel-1) thread #7 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:03:59.271 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:59.306 [Camel (camel-1) thread #11 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:59.319 [Camel (camel-1) thread #11 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:03:59.785 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:03:59.823 [Camel (camel-1) thread #2 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:03:59.837 [Camel (camel-1) thread #2 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:00.294 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:00.326 [Camel (camel-1) thread #9 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:00.342 [Camel (camel-1) thread #9 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:00.803 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:00.831 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:00.845 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:01.311 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:01.335 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:01.354 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:01.823 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:01.851 [Camel (camel-1) thread #4 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:01.874 [Camel (camel-1) thread #4 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:02.332 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:02.358 [Camel (camel-1) thread #11 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:02.375 [Camel (camel-1) thread #11 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:02.847 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:02.867 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:02.885 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:03.352 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:03.369 [Camel (camel-1) thread #9 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:03.383 [Camel (camel-1) thread #9 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:03.861 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:03.887 [Camel (camel-1) thread #2 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:03.910 [Camel (camel-1) thread #2 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:04.369 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:04.387 [Camel (camel-1) thread #3 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:04.398 [Camel (camel-1) thread #3 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:04.877 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:04.896 [Camel (camel-1) thread #9 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:04.915 [Camel (camel-1) thread #9 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:05.380 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:05.390 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:05.401 [Camel (camel-1) thread #6 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:05.888 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:05.900 [Camel (camel-1) thread #7 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:05.922 [Camel (camel-1) thread #7 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:04:06.394 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:04:06.413 [Camel (camel-1) thread #8 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:04:06.423 [Camel (camel-1) thread #8 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:15:32.877 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1729 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 10:15:32.880 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 10:15:32.881 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 10:16:04.781 [main] XmlParseApplication - Started XmlParseApplication in 32.373 seconds (JVM running for 34.572)
+[INFO ]  2021-11-09 10:16:05.831 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 10:16:05.885 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 10:16:05.982 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 10:16:05.993 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Starting ingest with c516ff62-37b0-4357-bf17-00c994ce61a6
+[INFO ]  2021-11-09 10:16:06.242 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 10:26:59.125 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FileOutputRouter - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:10:52.550 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2212 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 11:10:52.554 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 11:10:52.554 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 11:15:49.241 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2241 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 11:15:49.244 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 11:15:49.245 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 11:16:04.834 [main] XmlParseApplication - Started XmlParseApplication in 16.032 seconds (JVM running for 18.367)
+[INFO ]  2021-11-09 11:16:22.587 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 11:16:22.662 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 11:16:22.772 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 11:16:22.787 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with bb648d17-037b-4f71-bea7-096bab699931
+[INFO ]  2021-11-09 11:16:22.991 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 11:16:23.040 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:20:43.303 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2278 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 11:20:43.307 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 11:20:43.308 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 11:20:55.946 [main] XmlParseApplication - Started XmlParseApplication in 13.107 seconds (JVM running for 15.337)
+[INFO ]  2021-11-09 11:21:05.639 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 11:21:05.698 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 11:21:05.811 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 11:21:05.827 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with b0d2da6a-379f-4013-ba41-3c11514be676
+[INFO ]  2021-11-09 11:21:06.032 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 11:21:06.082 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:54:30.133 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2451 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 11:54:30.136 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 11:54:30.136 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 11:54:44.800 [main] XmlParseApplication - Started XmlParseApplication in 15.18 seconds (JVM running for 17.334)
+[INFO ]  2021-11-09 11:54:56.497 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 11:54:56.556 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 11:54:56.654 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 11:54:56.667 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 355821e1-ac6f-44f1-945f-41d802f36913
+[INFO ]  2021-11-09 11:54:56.866 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 11:54:56.928 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:55:32.161 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:19.954 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:34.638 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.255 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.277 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.282 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.288 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.294 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.301 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.309 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.317 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.320 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.321 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.325 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.332 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.340 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.344 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.346 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.348 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.350 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.352 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.357 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.359 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.362 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.364 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.365 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.366 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.367 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.369 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.370 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.371 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.374 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.375 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.376 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.377 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.380 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.381 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.382 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.385 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.387 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.389 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.390 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.390 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.391 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.393 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.394 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.394 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.395 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.397 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.399 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.400 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.401 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.403 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.407 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.410 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.412 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.416 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.420 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.423 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.426 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.427 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.429 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.429 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.430 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.431 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.431 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.432 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.433 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.434 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.435 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.435 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.436 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.437 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.438 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.438 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.439 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.439 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.440 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.441 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.442 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.445 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.445 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.446 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.446 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.447 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.448 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.449 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.451 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.451 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.452 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.452 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.453 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.455 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.456 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.456 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.457 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.458 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.458 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.459 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.459 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.460 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.460 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.461 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.462 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.463 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.463 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.464 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.464 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.465 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.466 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.467 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.468 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.469 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.471 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.476 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.478 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.479 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.480 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.480 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.482 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.483 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.490 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.497 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.501 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.502 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.505 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.509 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.515 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.519 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.521 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.521 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.523 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.524 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.525 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.525 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.526 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.526 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.528 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.529 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.530 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.530 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.531 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.532 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.532 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.533 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.533 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.534 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.534 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.535 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.535 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.536 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.536 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.537 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.538 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.539 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.539 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.540 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.540 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.540 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.541 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.541 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.542 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.542 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.543 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.544 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.546 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.552 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.559 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.561 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.561 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.562 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.562 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.563 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.563 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.564 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.564 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.565 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.565 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.567 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.569 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.570 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.571 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.571 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.572 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.573 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.576 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.577 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.577 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.578 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.578 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.579 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.581 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.581 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.582 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.583 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.587 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.589 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.592 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.593 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.594 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.596 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.597 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.598 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.598 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.599 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.600 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.603 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.605 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.606 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.606 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.607 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.607 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.608 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.608 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.609 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.609 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.609 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.610 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.610 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.612 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.613 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.615 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.617 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.625 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.629 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.636 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.645 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.647 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.648 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.648 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.649 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.649 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.651 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.651 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.652 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.652 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.653 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.653 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.654 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.654 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.660 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.661 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.662 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.663 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.664 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.664 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.665 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.667 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.668 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.669 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.677 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.679 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.684 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.687 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.693 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.696 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.698 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.700 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.701 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.702 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.703 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.703 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.704 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.704 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.704 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.705 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.706 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.707 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.707 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 11:56:39.708 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 12:07:38.629 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2503 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 12:07:38.633 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 12:07:38.633 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 12:07:54.742 [main] XmlParseApplication - Started XmlParseApplication in 16.547 seconds (JVM running for 18.72)
+[INFO ]  2021-11-09 12:08:04.914 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 12:08:04.971 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 12:08:05.078 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 12:08:05.089 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with b2ba1c23-c4b0-46d6-92ff-c46f0dd29eeb
+[INFO ]  2021-11-09 12:08:05.289 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 12:08:05.290 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 12:08:33.164 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 12:59:50.388 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2732 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 12:59:50.391 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 12:59:50.392 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:00:01.552 [main] XmlParseApplication - Started XmlParseApplication in 11.634 seconds (JVM running for 13.862)
+[INFO ]  2021-11-09 13:00:05.148 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:00:05.206 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:00:05.313 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:00:05.325 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with ecd47dbf-dcb6-4ebe-aff5-a845b989f80c
+[INFO ]  2021-11-09 13:00:05.527 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:00:05.529 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:00:26.978 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:00:26.987 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:00:30.103 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:01:23.948 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Fetching persisted entities from mongo db by ObjectId
+[INFO ]  2021-11-09 13:02:31.538 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2749 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:02:31.542 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:02:31.542 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:02:42.214 [main] XmlParseApplication - Started XmlParseApplication in 11.092 seconds (JVM running for 13.278)
+[INFO ]  2021-11-09 13:02:45.295 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:02:45.352 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:02:45.455 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:02:45.469 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with ed57eab5-7d73-48bc-ac91-1800a7b5226e
+[INFO ]  2021-11-09 13:02:45.679 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:02:45.680 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:02:48.635 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:11:37.482 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2775 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:11:37.485 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:11:37.486 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:11:47.434 [main] XmlParseApplication - Started XmlParseApplication in 10.356 seconds (JVM running for 12.545)
+[INFO ]  2021-11-09 13:11:53.583 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:11:53.638 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:11:53.749 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:11:53.763 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 60108bf2-6b23-4908-a502-979db57b51cb
+[INFO ]  2021-11-09 13:11:53.968 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:11:53.970 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:12:53.485 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:12:53.544 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:12:53.575 [Camel (camel-1) thread #10 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:12:53.580 [Camel (camel-1) thread #11 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 610e2496-ec9d-4179-9b80-c3f057f8bd5c
+[INFO ]  2021-11-09 13:12:53.595 [Camel (camel-1) thread #11 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:12:53.595 [Camel (camel-1) thread #11 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:14:53.723 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2794 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:14:53.727 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:14:53.727 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:15:04.291 [main] XmlParseApplication - Started XmlParseApplication in 11.016 seconds (JVM running for 13.266)
+[INFO ]  2021-11-09 13:15:06.908 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:15:06.966 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:15:07.060 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:15:07.072 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 22062fce-361c-4c9e-98e0-f3908fd2944a
+[INFO ]  2021-11-09 13:15:07.287 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:15:07.288 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:15:10.444 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:17:22.134 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2817 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:17:22.137 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:17:22.138 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:17:29.136 [main] XmlParseApplication - Started XmlParseApplication in 7.433 seconds (JVM running for 9.572)
+[INFO ]  2021-11-09 13:17:34.236 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:17:34.299 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:17:34.414 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:17:34.427 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 44e86c17-999b-42ce-9e55-dc5250c7bafb
+[INFO ]  2021-11-09 13:17:34.623 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:17:34.625 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:17:39.328 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:19:47.050 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:19:47.080 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:19:47.107 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Fetching persisted entities from mongo db by ObjectId
+[INFO ]  2021-11-09 13:20:23.412 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2847 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:20:23.415 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:20:23.415 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:20:34.137 [main] XmlParseApplication - Started XmlParseApplication in 11.2 seconds (JVM running for 13.329)
+[INFO ]  2021-11-09 13:20:37.238 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:20:37.295 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:20:37.391 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:20:37.402 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 1cb8661d-23be-4e64-a6fa-03463bd3c3d1
+[INFO ]  2021-11-09 13:20:37.590 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:20:37.591 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:20:39.772 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:21:37.770 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:21:37.800 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:21:37.806 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Fetching persisted entities from mongo db by ObjectId
+[INFO ]  2021-11-09 13:22:11.540 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2864 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:22:11.546 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:22:11.546 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:22:18.682 [main] XmlParseApplication - Started XmlParseApplication in 7.58 seconds (JVM running for 9.846)
+[INFO ]  2021-11-09 13:22:22.270 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:22:22.326 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:22:22.436 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:22:22.449 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 1d8268fa-76d4-4ffd-8a2e-9e47b58fc90c
+[INFO ]  2021-11-09 13:22:22.664 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:22:22.666 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:22:24.600 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:22:52.038 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:22:52.088 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:22:52.098 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Fetching persisted entities from mongo db by ObjectId
+[INFO ]  2021-11-09 13:23:15.212 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2882 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:23:15.215 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:23:15.215 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:23:22.448 [main] XmlParseApplication - Started XmlParseApplication in 7.682 seconds (JVM running for 9.83)
+[INFO ]  2021-11-09 13:23:29.111 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:23:29.168 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:23:29.264 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:23:29.278 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 4632948c-3997-4fff-9dcd-06134384fb7a
+[INFO ]  2021-11-09 13:23:29.470 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:23:29.471 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:23:31.170 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:23:46.139 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:23:50.135 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:24:14.909 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Fetching persisted entities from mongo db by ObjectId
+[INFO ]  2021-11-09 13:34:44.116 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2942 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:34:44.118 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:34:44.119 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:35:01.009 [main] XmlParseApplication - Started XmlParseApplication in 17.348 seconds (JVM running for 19.608)
+[INFO ]  2021-11-09 13:36:59.649 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:36:59.752 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:00.129 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:00.152 [Camel (camel-1) thread #9 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:00.641 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:00.657 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:01.149 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:01.171 [Camel (camel-1) thread #3 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:01.654 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:01.690 [Camel (camel-1) thread #7 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:02.159 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:02.188 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:02.680 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:02.697 [Camel (camel-1) thread #2 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:03.176 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:03.210 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:03.685 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:03.704 [Camel (camel-1) thread #11 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:04.188 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:04.199 [Camel (camel-1) thread #2 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:04.698 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:04.723 [Camel (camel-1) thread #7 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:05.208 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:05.229 [Camel (camel-1) thread #11 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:05.712 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:05.723 [Camel (camel-1) thread #2 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:06.219 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:06.236 [Camel (camel-1) thread #10 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:06.730 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:06.743 [Camel (camel-1) thread #9 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:07.238 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:07.264 [Camel (camel-1) thread #3 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:07.746 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:07.755 [Camel (camel-1) thread #6 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:08.251 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:08.261 [Camel (camel-1) thread #7 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:37:08.756 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:37:08.774 [Camel (camel-1) thread #4 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:47:22.200 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3046 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 13:47:22.205 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 13:47:22.205 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 13:47:41.784 [main] XmlParseApplication - Started XmlParseApplication in 20.129 seconds (JVM running for 22.892)
+[INFO ]  2021-11-09 13:47:42.826 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with JAXB
+[INFO ]  2021-11-09 13:47:42.886 [Camel (camel-1) thread #5 - Multicast] mylogger - File parsed with JAXB. Persisting entity in DB
+[INFO ]  2021-11-09 13:47:42.996 [Camel (camel-1) thread #5 - Multicast] mylogger - Entities persisted.
+[INFO ]  2021-11-09 13:47:43.013 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Starting ingest with 07923041-4acf-43a1-af2e-e62a2db4b5f1
+[INFO ]  2021-11-09 13:47:43.250 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - TO DO check if body is not empty ?
+[INFO ]  2021-11-09 13:47:43.251 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:48:11.680 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:48:41.795 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Saving to mongo db - TO DO
+[INFO ]  2021-11-09 13:48:47.999 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Book persisted in mongo db
+[INFO ]  2021-11-09 13:49:07.676 [Camel (camel-1) thread #6 - rabbitmq://xmlparser] FetchMySQLRouterToPersistInMongoDB - Fetching persisted entities from mongo db by ObjectId
+[INFO ]  2021-11-09 17:13:30.007 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4864 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-09 17:13:30.011 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-09 17:13:30.012 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-09 17:13:37.603 [main] XmlParseApplication - Started XmlParseApplication in 8.021 seconds (JVM running for 10.197)
+[INFO ]  2021-11-16 13:32:49.848 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4411 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 13:32:49.852 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 13:32:49.853 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:15:49.180 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 5023 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:15:49.183 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:15:49.184 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:16:32.046 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 5028 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:16:32.049 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:16:32.050 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:22:11.878 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 5240 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:22:11.882 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:22:11.882 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:23:10.297 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 5246 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:23:10.300 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:23:10.301 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:24:27.085 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 5250 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:24:27.088 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:24:27.088 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
