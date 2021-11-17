@@ -955,3 +955,402 @@
 [INFO ]  2021-11-16 15:24:27.085 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 5250 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
 [DEBUG]  2021-11-16 15:24:27.088 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
 [INFO ]  2021-11-16 15:24:27.088 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:49:10.746 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 6297 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:49:10.750 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:49:10.750 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 15:53:07.410 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1196 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 15:53:07.413 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 15:53:07.414 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 16:04:21.216 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1279 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 16:04:21.219 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 16:04:21.219 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 16:05:28.729 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1284 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 16:05:28.733 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 16:05:28.733 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 16:12:08.922 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1420 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 16:12:08.926 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 16:12:08.927 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 16:54:25.582 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1412 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 16:54:25.587 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 16:54:25.587 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 16:55:31.396 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1418 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 16:55:31.398 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 16:55:31.399 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 17:04:42.193 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1765 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 17:04:42.196 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 17:04:42.196 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 17:05:39.596 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1771 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 17:05:39.598 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 17:05:39.599 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 17:06:26.439 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1777 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 17:06:26.442 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 17:06:26.443 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-16 17:06:33.488 [main] XmlParseApplication - Started XmlParseApplication in 7.552 seconds (JVM running for 9.75)
+[INFO ]  2021-11-16 17:15:18.566 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1839 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-16 17:15:18.570 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-16 17:15:18.570 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 09:24:15.990 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1549 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 09:24:15.993 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 09:24:15.993 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 09:33:41.917 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 1659 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 09:33:41.920 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 09:33:41.921 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:18:47.785 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2633 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:18:47.787 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:18:47.788 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:22:19.657 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2666 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:22:19.663 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:22:19.664 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:24:07.202 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2680 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:24:07.233 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:24:07.234 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:24:15.831 [main] XmlParseApplication - Started XmlParseApplication in 9.597 seconds (JVM running for 12.11)
+[INFO ]  2021-11-17 12:25:03.700 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2705 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:25:03.716 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:25:03.717 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:25:12.517 [main] XmlParseApplication - Started XmlParseApplication in 9.377 seconds (JVM running for 11.564)
+[INFO ]  2021-11-17 12:27:25.570 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2727 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:27:25.617 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:27:25.619 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:27:34.509 [main] XmlParseApplication - Started XmlParseApplication in 9.546 seconds (JVM running for 12.053)
+[INFO ]  2021-11-17 12:30:20.022 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2760 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:30:20.040 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:30:20.046 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:30:29.616 [main] XmlParseApplication - Started XmlParseApplication in 10.185 seconds (JVM running for 12.556)
+[INFO ]  2021-11-17 12:31:01.622 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2768 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:31:01.667 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:31:01.669 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:31:10.828 [main] XmlParseApplication - Started XmlParseApplication in 9.854 seconds (JVM running for 12.1)
+[INFO ]  2021-11-17 12:37:15.913 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2818 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:37:15.943 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:37:15.944 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:37:31.430 [main] XmlParseApplication - Started XmlParseApplication in 16.337 seconds (JVM running for 19.077)
+[INFO ]  2021-11-17 12:38:10.392 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2827 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:38:10.406 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:38:10.408 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:38:20.642 [main] XmlParseApplication - Started XmlParseApplication in 10.862 seconds (JVM running for 13.659)
+[INFO ]  2021-11-17 12:38:30.327 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:30.824 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:31.333 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:31.851 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:32.350 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:32.859 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:33.362 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:33.872 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:34.381 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:34.885 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:38:35.391 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:40:52.080 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 2859 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:40:52.096 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:40:52.097 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:41:30.869 [main] XmlParseApplication - Started XmlParseApplication in 39.372 seconds (JVM running for 41.784)
+[INFO ]  2021-11-17 12:41:31.934 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:35.502 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3011 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:45:35.520 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:45:35.521 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:45:44.779 [main] XmlParseApplication - Started XmlParseApplication in 9.857 seconds (JVM running for 12.183)
+[INFO ]  2021-11-17 12:45:45.816 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:46.318 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:46.831 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:47.339 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:47.843 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:48.351 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:48.853 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:49.370 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:49.873 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:50.381 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:50.894 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:51.410 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:51.918 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:52.426 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:52.932 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:53.446 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:53.957 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:54.470 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:54.974 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:55.480 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:55.986 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:56.488 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:57.000 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:57.503 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:58.010 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:58.515 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:59.022 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:45:59.529 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:00.039 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:00.548 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:01.057 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:01.564 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:02.072 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:02.577 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:03.082 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:03.591 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:04.099 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:04.609 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:05.112 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:05.626 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:06.130 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:06.639 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:07.141 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:07.650 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:08.161 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:08.671 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:09.177 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:09.684 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:10.187 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:10.699 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:11.209 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:11.716 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:12.225 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:12.734 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:13.245 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:13.756 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:14.258 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:14.765 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:15.273 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:15.788 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:16.290 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:16.798 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:17.302 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:17.811 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:18.326 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:18.830 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:19.336 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:19.848 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:20.349 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:20.860 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:21.363 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:21.872 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:22.376 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:22.883 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:23.390 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:23.896 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:24.403 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:24.918 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:25.422 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:25.932 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:26.441 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:26.949 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:27.455 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:27.965 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:28.471 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:28.979 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:29.497 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:30.013 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:30.510 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:31.019 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:31.524 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:32.037 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:32.543 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:33.051 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:33.554 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:34.068 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:34.579 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:35.080 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:35.589 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:36.098 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:36.601 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:37.109 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:37.616 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:38.126 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:38.633 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:39.141 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:39.654 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:40.162 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:40.664 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:41.167 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:41.671 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:42.175 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:42.682 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:43.186 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:43.691 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:44.197 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:44.703 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:45.209 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:45.721 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:46.229 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:46:46.739 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:31.955 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3054 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:52:31.975 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:52:31.976 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:52:41.055 [main] XmlParseApplication - Started XmlParseApplication in 9.664 seconds (JVM running for 11.864)
+[INFO ]  2021-11-17 12:52:42.099 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:42.600 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:43.111 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:43.618 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:44.123 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:44.631 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:45.137 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:45.666 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:46.169 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:46.673 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:47.180 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:47.701 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:48.204 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:48.710 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:49.217 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:49.727 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:50.236 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:50.746 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:51.254 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:51.756 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:52.267 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:52.775 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:53.279 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:53.790 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:54.298 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:54.801 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:55.309 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:55.817 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:56.323 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:56.833 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:57.339 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:57.847 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:58.367 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:58.868 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:59.377 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:52:59.888 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:00.398 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:00.904 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:01.411 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:01.920 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:02.422 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:02.928 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:03.433 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:03.948 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:04.459 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:04.965 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:05.476 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:05.977 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:06.480 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:06.995 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:07.500 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:08.013 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:08.525 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:09.029 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:09.540 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:10.046 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:10.549 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:11.055 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:11.563 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:12.074 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:12.582 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:13.089 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:13.601 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:14.112 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:14.623 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:15.132 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:15.638 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:16.145 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:16.650 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:17.155 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:17.665 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:53:18.172 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:35.421 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3129 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:57:35.488 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:57:35.489 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:57:47.656 [main] XmlParseApplication - Started XmlParseApplication in 12.847 seconds (JVM running for 15.058)
+[INFO ]  2021-11-17 12:57:48.690 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:50.193 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:51.711 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:53.218 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:54.739 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:56.257 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:57.781 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:57:59.307 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:00.823 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:02.339 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:03.849 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:05.368 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:06.885 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:08.398 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:09.921 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:11.447 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:12.961 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:14.475 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:15.987 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:17.501 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:19.016 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:20.532 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:22.059 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:23.569 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:25.084 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:26.609 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:33.514 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3161 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 12:58:33.592 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 12:58:33.596 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 12:58:42.540 [main] XmlParseApplication - Started XmlParseApplication in 9.563 seconds (JVM running for 11.863)
+[INFO ]  2021-11-17 12:58:43.563 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:44.065 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:44.582 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:45.096 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:45.598 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:46.109 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:46.613 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:47.126 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:47.633 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:48.141 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:48.656 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:49.164 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:49.677 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:50.184 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:50.691 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:51.199 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:51.707 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:52.219 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:52.727 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:53.235 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:53.746 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:54.260 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:54.772 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:55.285 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:55.795 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:56.300 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:56.804 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:57.310 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:57.817 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:58.323 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:58.829 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:59.336 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:58:59.851 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:00.356 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:00.862 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:01.372 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:01.881 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:02.390 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:02.896 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:03.404 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:03.908 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:04.414 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:04.921 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:05.427 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:05.932 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:06.444 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:06.951 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:07.456 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:07.964 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:08.466 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:08.969 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:09.479 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:09.989 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:10.494 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:10.999 [Camel (camel-1) thread #8 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:11.512 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:12.013 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:12.517 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:13.026 [Camel (camel-1) thread #3 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:13.536 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:14.046 [Camel (camel-1) thread #9 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:14.548 [Camel (camel-1) thread #11 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:15.053 [Camel (camel-1) thread #4 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:15.558 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:16.068 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:16.572 [Camel (camel-1) thread #5 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:17.077 [Camel (camel-1) thread #7 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:17.583 [Camel (camel-1) thread #2 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:18.089 [Camel (camel-1) thread #10 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 12:59:18.596 [Camel (camel-1) thread #6 - Multicast] mylogger - File is xml format. Parsing with Camel converter
+[INFO ]  2021-11-17 13:01:43.902 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 3189 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 13:01:43.935 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 13:01:43.936 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 13:01:53.089 [main] XmlParseApplication - Started XmlParseApplication in 9.834 seconds (JVM running for 12.249)

@@ -7,6 +7,7 @@ import com.example.xmlparse.repository.jpa.DownloadableEBookRepository;
 import lombok.AllArgsConstructor;
 import org.apache.camel.Body;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 
 import javax.xml.bind.JAXBException;
@@ -16,8 +17,9 @@ import java.util.stream.Collectors;
 @AllArgsConstructor
 @Component
 public class PersistBookInMySQLDB {
-    @Autowired
     private final DownloadableEBookRepository downloadableEBookRepository;
+
+    private final ApplicationContext applicationContext;
 
     public String persistBookInDB(@Body DownloadableEBookListDTO downloadableEBookListDTO) throws JAXBException {
         String ISBNlist = "";
