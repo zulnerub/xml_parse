@@ -1354,3 +1354,22 @@
 [DEBUG]  2021-11-17 13:01:43.935 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
 [INFO ]  2021-11-17 13:01:43.936 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
 [INFO ]  2021-11-17 13:01:53.089 [main] XmlParseApplication - Started XmlParseApplication in 9.834 seconds (JVM running for 12.249)
+[INFO ]  2021-11-17 15:07:51.150 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4550 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 15:07:51.181 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 15:07:51.182 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 15:07:59.945 [main] XmlParseApplication - Started XmlParseApplication in 9.386 seconds (JVM running for 11.645)
+[INFO ]  2021-11-17 15:19:49.498 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4623 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 15:19:49.501 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 15:19:49.502 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 15:21:14.208 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4627 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 15:21:14.214 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 15:21:14.214 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 15:21:56.484 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4641 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 15:21:56.488 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 15:21:56.488 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 15:27:19.855 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4711 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 15:27:19.858 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 15:27:19.858 [main] XmlParseApplication - No active profile set, falling back to default profiles: default
+[INFO ]  2021-11-17 15:28:25.048 [main] XmlParseApplication - Starting XmlParseApplication using Java 11.0.9.1 on Simeons-MBP.deltasource.eu with PID 4725 (/Users/simeonatanasov/WebstormProjects/xml-parse/target/classes started by simeonatanasov in /Users/simeonatanasov/WebstormProjects/xml-parse)
+[DEBUG]  2021-11-17 15:28:25.057 [main] XmlParseApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+[INFO ]  2021-11-17 15:28:25.058 [main] XmlParseApplication - No active profile set, falling back to default profiles: default

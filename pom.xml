@@ -16,7 +16,6 @@
 	<properties>
 		<java.version>11</java.version>
 		<camel.version>3.12.0</camel.version>
-		<restlet.ext.version>2.4.0</restlet.ext.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -28,11 +27,6 @@
 					<artifactId>spring-boot-starter-logging</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
@@ -64,25 +58,8 @@
 
 		<dependency>
 			<groupId>org.apache.camel.springboot</groupId>
-			<artifactId>camel-rest-starter</artifactId>
+			<artifactId>camel-servlet-starter</artifactId>
 			<version>${camel.version}</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.camel</groupId>
-			<artifactId>camel-servlet</artifactId>
-			<version>${camel.version}</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>org.restlet.jee</groupId>
-			<artifactId>org.restlet.ext.spring</artifactId>
-			<version>${restlet.ext.version}</version>
 		</dependency>
 
 		<dependency>

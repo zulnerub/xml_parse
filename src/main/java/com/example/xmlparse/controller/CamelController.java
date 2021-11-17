@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 public class CamelController extends RouteBuilder {
     @Override
     public void configure() throws Exception {
-        restConfiguration().component("servlet").bindingMode(RestBindingMode.xml);
+        restConfiguration().component("servlet");
 
         rest().id("consumer")
                 .post()
